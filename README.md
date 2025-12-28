@@ -35,12 +35,6 @@ Data is automatically updated **daily at 10:00 UTC** (before US market open) via
 
 **All files are sorted by market cap (largest first).**
 
-## 🚀 Manual Update
-
-1. Go to the **Actions** tab
-2. Select **Daily Stock Ticker Update**
-3. Click **Run workflow**
-
 ## 🛠️ Local Development
 
 ```bash
@@ -51,5 +45,4 @@ python update_tickers.py
 ## 📝 Notes
 
 - **Data source**: NASDAQ Stock Screener API
-- **Exchanges**: NYSE, NASDAQ, and AMEX
 - **Updates**: Daily at 10:00 UTC
