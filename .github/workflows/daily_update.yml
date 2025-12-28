@@ -1,0 +1,45 @@
+name: Daily Stock Ticker Update
+
+on:
+  schedule:
+    # Run daily at 10:00 UTC (Before US Market Open)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run update script
+        run: python update_tickers.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Add all generated CSV files from both folders
+          git add tickers/ by_industry/
+          
+          # Check for changes before committing to avoid empty commit errors
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update ticker lists: $(date -u)"
+            git push
+          fi
