@@ -2,8 +2,8 @@ name: Daily Stock Ticker Update
 
 on:
   schedule:
-    # Run daily at 10:00 UTC (Before US Market Open)
-    - cron: '0 10 * * *'
+    # Run weekdays at 10:00 UTC (Mon-Fri, before US Market Open)
+    - cron: '0 10 * * 1-5'
   workflow_dispatch:
 
 permissions:
