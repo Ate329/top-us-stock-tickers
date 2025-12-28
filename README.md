@@ -45,4 +45,4 @@ python update_tickers.py
 ## 📝 Notes
 
 - **Data source**: NASDAQ Stock Screener API
-- **Updates**: Daily at 10:00 UTC
+- **Updates**: Daily at 10:00 UTC (exclude weekend)
