@@ -16,6 +16,7 @@ Automatically updated CSV lists of US-listed stocks from NASDAQ (grouped by indu
     ├── technology.csv
     ├── health_care.csv
     ├── finance.csv
+    ├── uncategorized.csv
     └── ...            # One file per industry
 ```
 
@@ -56,6 +57,7 @@ Common starting points:
 - `tickers/sp500.csv`: current S&P 500 constituent tickers
 - `tickers/top_50.csv`, `tickers/top_100.csv`, `tickers/top_200.csv`: largest names by market cap
 - `by_industry/*.csv`: sector-grouped subsets
+- `by_industry/uncategorized.csv`: rows where NASDAQ does not provide a sector value
 
 Raw GitHub URL examples:
 

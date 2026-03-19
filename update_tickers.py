@@ -205,6 +205,8 @@ def save_files(tickers, sp500_tickers=None):
     
     # Sort by market cap (descending)
     df = pd.DataFrame(tickers)
+    df['industry'] = df['industry'].fillna('').astype(str).str.strip()
+    df.loc[df['industry'] == '', 'industry'] = 'Uncategorized'
     df = df.sort_values('marketCap', ascending=False).reset_index(drop=True)
     
     # Create output directories
@@ -230,8 +232,7 @@ def save_files(tickers, sp500_tickers=None):
     # === BY INDUSTRY ===
     print("\nSaving by industry...")
     
-    industries = df['industry'].dropna().unique()
-    industries = [i for i in industries if i and i.strip()]
+    industries = df['industry'].unique()
     
     for industry in sorted(industries):
         industry_df = df[df['industry'] == industry]
