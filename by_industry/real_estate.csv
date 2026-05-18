@@ -1,317 +1,253 @@
 symbol,name,price,marketCap,volume,industry
-V,Visa Inc.,322.52,611003805492.0,5277391,Real Estate
-MA,Mastercard Incorporated Common Stock,489.94,432903073919.0,2584988,Real Estate
-WELL,Welltower Inc. Common Stock,217.75,153712871488.0,2901280,Real Estate
-UBER,Uber Technologies Inc. Common Stock,74.69,152038890281.0,17329547,Real Estate
-PLD,Prologis Inc. Common Stock,142.66,133007339080.0,2484335,Real Estate
-EQIX,Equinix Inc. Common Stock REIT,1079.68,106482628081.0,479624,Real Estate
-AMT,American Tower Corporation (REIT) Common Stock,170.5,79434768265.0,2922523,Real Estate
-DLR,Digital Realty Trust Inc. Common Stock,192.84,67765146539.0,2753354,Real Estate
-SPG,Simon Property Group Inc. Common Stock,202.8,65765994154.0,1430603,Real Estate
-O,Realty Income Corporation Common Stock,61.96,57777237159.0,6052122,Real Estate
-PSA,Public Storage Common Stock,303.03,53195628016.0,606581,Real Estate
-EBAY,eBay Inc. Common Stock,113.24,50393066136.0,4632363,Real Estate
-VTR,Ventas Inc. Common Stock,89.96,43735828281.0,3679790,Real Estate
-MSCI,MSCI Inc. Common Stock,569.69,41473432000.0,627354,Real Estate
-CCI,Crown Castle Inc. Common Stock,87.31,38106622636.0,3610436,Real Estate
-IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,127.75,38008777998.0,1051962,Real Estate
-EXR,Extra Space Storage Inc Common Stock,142.19,30039192490.0,953312,Real Estate
-VICI,VICI Properties Inc. Common Stock,27.88,29804561614.0,6472136,Real Estate
-AGNCN,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock,25.76,29570658047.0,8320,Real Estate
-AGNCO,AGNC Investment Corp. Depositary Shares each representing a 1/1000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock,25.56,29341072192.0,9254,Real Estate
-AGNCL,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock,25.02,28721190385.0,14399,Real Estate
-AGNCP,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,24.92,28606397458.0,33435,Real Estate
-AGNCM,AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock,24.88,28560480287.0,4673,Real Estate
-FISV,Fiserv Inc. Common Stock,53.46,28507758092.0,5864241,Real Estate
-AVB,AvalonBay Communities Inc. Common Stock,183.54,25532629144.0,1172982,Real Estate
-FICO,Fair Isaac Corporation Common Stock,1076.93,24974982399.0,328769,Real Estate
-EQR,Equity Residential Common Shares of Beneficial Interest,65.02,24361156210.0,2717640,Real Estate
-AKAM,Akamai Technologies Inc. Common Stock,155.67,22632153157.0,4079270,Real Estate
-FIS,Fidelity National Information Services Inc. Common Stock,41.81,21610717303.0,7668080,Real Estate
-CPAY,Corpay Inc. Common Stock,329.17,21515182877.0,322031,Real Estate
-SBAC,SBA Communications Corporation Class A Common Stock,201.21,21340939651.0,1022174,Real Estate
-GPN,Global Payments Inc. Common Stock,67.33,18417684326.0,2168516,Real Estate
-ESS,Essex Property Trust Inc. Common Stock,268.53,17256507407.0,634264,Real Estate
-WY,Weyerhaeuser Company Common Stock,23.35,16836354050.0,4360121,Real Estate
-BR,Broadridge Financial Solutions Inc. Common Stock,143.37,16581930041.0,1545770,Real Estate
-WPC,W. P. Carey Inc. REIT,73.69,16413644647.0,645027,Real Estate
-NLY,Annaly Capital Management Inc. Common Stock,21.99,16107250725.0,5138010,Real Estate
-KIM,Kimco Realty Corporation (HC) Common Stock,23.18,15632355379.0,3826297,Real Estate
-SUI,Sun Communities Inc. Common Stock,121.87,15018132356.0,711535,Real Estate
-LAMR,Lamar Advertising Company Class A Common Stock,147.41,14958444638.0,696745,Real Estate
-MAA,Mid-America Apartment Communities Inc. Common Stock,127.23,14807638358.0,985227,Real Estate
-HST,Host Hotels & Resorts Inc. Common Stock,21.54,14752299713.0,7456702,Real Estate
-OHI,Omega Healthcare Investors Inc. Common Stock,47.93,14273649860.0,2656392,Real Estate
-REG,Regency Centers Corporation Common Stock,76.92,14083805087.0,1140672,Real Estate
-DOC,Healthpeak Properties Inc. Common Stock,19.56,13485049371.0,6205831,Real Estate
-GLPI,Gaming and Leisure Properties Inc. Common Stock,46.87,13283934115.0,1931280,Real Estate
-UDR,UDR Inc. Common Stock,37.34,12132350483.0,4817187,Real Estate
-AGNC,AGNC Investment Corp. Common Stock,10.55,12110653820.0,11880921,Real Estate
-ELS,Equity Lifestyle Properties Inc. Common Stock,61.96,12016370784.0,1805982,Real Estate
-AMH,American Homes 4 Rent Common Shares of Beneficial Interest,31.36,11308277765.0,3968939,Real Estate
-CPT,Camden Property Trust Common Stock,103.99,10453046931.0,1385849,Real Estate
-CTRE,CareTrust REIT Inc. Common Stock,41.93,9905553054.0,1406226,Real Estate
-AHR,American Healthcare REIT Inc. Common Stock,51.14,9855818831.0,2120058,Real Estate
-FRT,Federal Realty Investment Trust Common Stock,113.82,9832818403.0,699253,Real Estate
-BXP,BXP Inc. Common Stock,58.96,9402786973.0,1591304,Real Estate
-BRX,Brixmor Property Group Inc. Common Stock,29.49,9048611835.0,2177300,Real Estate
-CART,Maplebear Inc. Common Stock,38.47,9041596945.0,4668360,Real Estate
-ADC,Agree Realty Corporation Common Stock,75.28,9041343226.0,704608,Real Estate
-CUBE,CubeSmart Common Shares,39.64,8975036293.0,2002037,Real Estate
-LINE,Lineage Inc. Common Stock,39.4,8970369981.0,1296659,Real Estate
-ZG,Zillow Group Inc. Class A Common Stock,37.86,8662436527.0,1245467,Real Estate
-Z,Zillow Group Inc. Class C Capital Stock,37.37,8550323640.0,3778080,Real Estate
-NNN,NNN REIT Inc. Common Stock,43.74,8321455262.0,1680899,Real Estate
-FR,First Industrial Realty Trust Inc. Common Stock,61.33,8130544104.0,657573,Real Estate
-ARE,Alexandria Real Estate Equities Inc. Common Stock,46.17,8046021892.0,1693907,Real Estate
-REXR,Rexford Industrial Realty Inc. Common Stock,35.26,7958820876.0,1998844,Real Estate
-STAG,Stag Industrial Inc. Common Stock,38.04,7273440292.0,1290063,Real Estate
-HR,Healthcare Realty Trust Incorporated Common Stock,20.36,7055179328.0,2568603,Real Estate
-HQY,HealthEquity Inc. Common Stock,82.32,6954262382.0,783505,Real Estate
-RHP,Ryman Hospitality Properties Inc. (REIT),105.98,6688320647.0,1366711,Real Estate
-EPRT,Essential Properties Realty Trust Inc. Common Stock,30.58,6612801304.0,1648688,Real Estate
-STWD,STARWOOD PROPERTY TRUST INC. Starwood Property Trust Inc.,17.14,6354630490.0,3246356,Real Estate
-RYN,Rayonier Inc. REIT Common Stock,20.22,6081108849.0,2613711,Real Estate
-VNO,Vornado Realty Trust Common Stock,31.07,5844197279.0,1418012,Real Estate
-MAC,Macerich Company (The) Common Stock,22.34,5839255718.0,6153745,Real Estate
-OUT,OUTFRONT Media Inc. Common Stock,32.79,5773122493.0,1734224,Real Estate
-AMTM,Amentum Holdings Inc. Common Stock,23.25,5680354417.0,2227320,Real Estate
-ETSY,Etsy Inc. Common Stock,58.41,5542888853.0,2483138,Real Estate
-SBRA,Sabra Health Care REIT Inc. Common Stock,21.2,5346430014.0,2014885,Real Estate
-KRG,Kite Realty Group Trust Common Stock,26.22,5324404967.0,2352148,Real Estate
-RITM,Rithm Capital Corp. Common Stock,9.3,5192251352.0,7039086,Real Estate
-PECO,Phillips Edison & Company Inc. Common Stock,39.72,5004720000.0,1070895,Real Estate
-LYFT,Lyft Inc. Class A Common Stock,13.05,4954857043.0,22033576,Real Estate
-RELY,Remitly Global Inc. Common Stock,23.31,4908178751.0,5597253,Real Estate
-DHCNL,Diversified Healthcare Trust 6.25% Senior Notes Due 2046,19.82,4784832556.0,31629,Real Estate
-GHC,Graham Holdings Company Common Stock,1108.65,4775048677.0,15009,Real Estate
-XMTR,Xometry Inc. Class A Common Stock,89.98,4732839844.0,757602,Real Estate
-WEX,WEX Inc. common stock,134.02,4646224525.0,443184,Real Estate
-FRMI,Fermi Inc. Common Stock,7.37,4641919252.0,56613563,Real Estate
-DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,19.04,4596529357.0,21385,Real Estate
-LAUR,Laureate Education Inc. Common Stock,32.49,4547894610.0,1001622,Real Estate
-EPR,EPR Properties Common Stock,57.89,4429028785.0,462990,Real Estate
-CUZ,Cousins Properties Incorporated Common Stock,26.36,4337283178.0,1793519,Real Estate
-REGCP,Regency Centers Corporation 6.25% Series A Cumulative Redeemable Preferred Stock,23.63,4326577148.0,50698,Real Estate
-CVSA,Covista Inc. Common Shares,126.51,4305247514.0,258518,Real Estate
-LOPE,Grand Canyon Education Inc. Common Stock,160.45,4254218793.0,379427,Real Estate
-COLD,Americold Realty Trust Inc. Common Stock,14.59,4162615299.0,3710615,Real Estate
-REGCO,Regency Centers Corporation 5.875% Series B Cumulative Redeemable Preferred Stock,22.55,4128832615.0,28404,Real Estate
-EXLS,ExlService Holdings Inc. Common Stock,26.95,4117499990.0,3613528,Real Estate
-SKT,Tanger Inc. Common Stock,35.78,4110257949.0,742832,Real Estate
-KRC,Kilroy Realty Corporation Common Stock,34.77,4043014119.0,1219652,Real Estate
-HHH,Howard Hughes Holdings Inc. Common Stock,64.66,3855325925.0,385200,Real Estate
-IRT,Independence Realty Trust Inc. Common Stock,16.25,3830363583.0,1985688,Real Estate
-BNL,Broadstone Net Lease Inc. Common Stock,19.76,3789307127.0,1233312,Real Estate
-LRN,Stride Inc. Common Stock,88.4,3759195856.0,296541,Real Estate
-JOE,St. Joe Company (The) Common Stock,64.23,3687427986.0,175848,Real Estate
-NHI,National Health Investors Inc. Common Stock,74.9,3630483817.0,240515,Real Estate
-CDP,COPT Defense Properties Common Shares of Beneficial Interest,31.65,3588378347.0,715460,Real Estate
-BFH,Bread Financial Holdings Inc. Common Stock,86.83,3508545454.0,547097,Real Estate
-FOUR,Shift4 Payments Inc. Class A Common Stock,42.02,3333401386.0,1284957,Real Estate
-APLE,Apple Hospitality REIT Inc. Common Shares,14.02,3309667107.0,2827951,Real Estate
-RWTN,Redwood Trust Inc. 9.125% Senior Notes Due 2029,25.5,3295198332.0,2035,Real Estate
-NSA,National Storage Affiliates Trust Common Shares of Beneficial Interest,42.53,3283849028.0,793858,Real Estate
-RWTO,Redwood Trust Inc. 9.00% Senior Notes Due 2029,25.23,3260307997.0,6878,Real Estate
-MMS,Maximus Inc. Common Stock,59.93,3148743955.0,1023906,Real Estate
-PAY,Paymentus Holdings Inc. Class A Common Stock,24.82,3122091344.0,628983,Real Estate
-BXMT,Blackstone Mortgage Trust Inc. Common Stock,18.42,3107150438.0,843115,Real Estate
-MPT,Medical Properties Trust Inc. common stock,5.18,3098158000.0,4322084,Real Estate
-SLG,SL Green Realty Corp Common Stock,43.46,3091070031.0,1015872,Real Estate
-LXP,LXP Industrial Trust Common Stock (Maryland REIT),51.43,3031927692.0,307077,Real Estate
-HIW,Highwoods Properties Inc. Common Stock,26.21,2890247388.0,2379902,Real Estate
-DBRG,DigitalBridge Group Inc.,15.66,2855951502.0,2750720,Real Estate
-AKR,Acadia Realty Trust Common Stock,21.17,2826557875.0,702862,Real Estate
-DX,Dynex Capital Inc. Common Stock,13.11,2820628391.0,3725887,Real Estate
-UNIT,Uniti Group Inc. Common Stock,11.25,2731676085.0,2972215,Real Estate
-FCPT,Four Corners Property Trust Inc. Common Stock,24.53,2692147802.0,1470095,Real Estate
-WU,Western Union Company (The) Common Stock,8.31,2596335714.0,7871110,Real Estate
-MFAO,MFA Financial Inc. 9.000% Senior Notes due 2029,25.19,2586224603.0,3581,Real Estate
-MFAN,MFA Financial Inc. 8.875% Senior Notes due 2029,25.15,2582117855.0,12346,Real Estate
-IVT,InvenTrust Properties Corp. Common Stock,31.32,2440951041.0,295399,Real Estate
-ADAMI,Adamas Trust Inc. 9.125% Senior Notes Due 2029,25.3301,2294386501.0,2951,Real Estate
-ADAMM,Adamas Trust Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,25.5183,2293102712.0,2419,Real Estate
-UTI,Universal Technical Institute Inc Common Stock,41.5,2285047312.0,1337246,Real Estate
-PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,25.4872,2222544041.0,3200,Real Estate
-PRDO,Perdoceo Education Corporation Common Stock,35.03,2196490749.0,500520,Real Estate
-ADAML,Adamas Trust Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock $0.01 par value per share,24.19,2173740203.0,2932,Real Estate
-ARR,ARMOUR Residential REIT Inc.,17.37,2154681035.0,2852555,Real Estate
-DRH,Diamondrock Hospitality Company Common Stock,10.5,2147151206.0,949785,Real Estate
-ADAMN,Adamas Trust Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,23.7,2129708260.0,9919,Real Estate
-CXW,CoreCivic Inc. Common Stock,21.25,2101379775.0,1105906,Real Estate
-DHC,Diversified Healthcare Trust Common Shares of Beneficial Interest,8.64,2091803841.0,1257251,Real Estate
-CIMN,Chimera Investment Corporation 9.000% Senior Notes due 2029,25.32,2039037223.0,6247,Real Estate
-NTST,NetSTREIT Corp. Common Stock,20.55,1998705474.0,779672,Real Estate
-FLYW,Flywire Corporation Voting Common Stock,16.35,1987253556.0,1600819,Real Estate
-TIC,TIC Solutions Inc. Common Stock,8.92,1971700028.0,2018521,Real Estate
-LTC,LTC Properties Inc. Common Stock,38.33,1961785208.0,274070,Real Estate
-GNL,Global Net Lease Inc. Common Stock,9.2,1949769349.0,1819308,Real Estate
-DEI,Douglas Emmett Inc. Common Stock,11.6,1942829097.0,4294218,Real Estate
-TNET,TriNet Group Inc. Common Stock,39.64,1821245649.0,318106,Real Estate
-STRA,Strategic Education Inc. Common Stock,79.03,1787098198.0,240308,Real Estate
-VRE,Veris Residential Inc. Common Stock,18.97,1780107182.0,544435,Real Estate
-SMA,SmartStop Self Storage REIT Inc. Common Stock,30.76,1703036474.0,941921,Real Estate
-SILA,Sila Realty Trust Inc. Common Stock,30.56,1688329678.0,300268,Real Estate
-ADAMZ,Adamas Trust Inc. 7.000% Series G Cumulative Redeemable Preferred Stock $0.01 par value per share,18.33,1647154110.0,7398,Real Estate
-PAYO,Payoneer Global Inc. Common Stock,4.87,1630372094.0,4471308,Real Estate
-PEB,Pebblebrook Hotel Trust Common Shares of Beneficial Interest,14.27,1617778983.0,2300390,Real Estate
-LINC,Lincoln Educational Services Corporation Common Stock,50.99,1617439921.0,544786,Real Estate
-CBZ,CBIZ Inc. Common Stock,28.44,1525769938.0,539091,Real Estate
-ARI,Apollo Commercial Real Estate Finance Inc,10.97,1457361231.0,972550,Real Estate
-CBL,CBL & Associates Properties Inc. Common Stock,46.25,1431195058.0,209251,Real Estate
-RLJ,RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value,9.1,1382560507.0,3094305,Real Estate
-ORC,Orchid Island Capital Inc. Common Stock,6.92,1381925564.0,2831713,Real Estate
-TWO,Two Harbors Investment Corp,12.6,1323583796.0,2663076,Real Estate
-UMH,UMH Properties Inc. Common Stock,15.2,1294526164.0,1111289,Real Estate
-AAT,American Assets Trust Inc. Common Stock,20.85,1280001016.0,297115,Real Estate
-LADR,Ladder Capital Corp Class A Common Stock,10.01,1277957521.0,1096778,Real Estate
-BV,BrightView Holdings Inc. Common Stock,12.76,1189232000.0,798849,Real Estate
-ALX,Alexander's Inc. Common Stock,231.18,1180703302.0,48767,Real Estate
-SCCD,Sachem Capital Corp. 6.00% Notes due 2026,24.65,1166987399.0,539,Real Estate
-PRSU,Pursuit Attractions and Hospitality Inc. Common Stock,42.36,1157211236.0,234435,Real Estate
-SCCG,Sachem Capital Corp. 8.00% Notes due 2027,24.1,1140949141.0,4635,Real Estate
-CSR,D/B/A Centerspace Common Stock,67.88,1140597754.0,71730,Real Estate
-SCCE,Sachem Capital Corp. 6.00% Notes due 2027,24.0,1136214912.0,692,Real Estate
-SCCF,Sachem Capital Corp. 7.125% Notes due 2027,24.0,1136214912.0,1013,Real Estate
-ABR,Arbor Realty Trust Common Stock,5.84,1123389426.0,6258032,Real Estate
-CIM,Chimera Investment Corporation Common Stock,13.3,1112492039.0,328419,Real Estate
-JBGS,JBG SMITH Properties Common Shares ,14.69,1094619268.0,585555,Real Estate
-SVC,Service Properties Trust Common Stock,1.69,1093779764.0,9503265,Real Estate
-GOODN,Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock,22.28,1078507804.0,3466,Real Estate
-DEA,Easterly Government Properties Inc. Common Stock,23.02,1069264589.0,299429,Real Estate
-SAFE,Safehold Inc. New Common Stock ,14.61,1046222129.0,350839,Real Estate
-LQDT,Liquidity Services Inc. Common Stock,33.34,1039582242.0,161373,Real Estate
-PDM,Piedmont Realty Trust Inc. Class A Common Stock,8.04,1005152784.0,962532,Real Estate
-ACVA,ACV Auctions Inc. Class A Common Stock,5.72,998625594.0,3434728,Real Estate
-APEI,American Public Education Inc. Common Stock,54.36,997152008.0,354493,Real Estate
-EEX,Emerald Holding Inc. Common Stock,4.99,987568220.0,2030365,Real Estate
-GOODO,Gladstone Commercial Corporation 6.00% Series G Cumulative Redeemable Preferred Stock par value $0.001 per share,20.28,981693818.0,5285,Real Estate
-WSR,Whitestone REIT Common Shares,18.99,975971623.0,628062,Real Estate
-MFA,MFA Financial Inc.,9.54,969228053.0,959367,Real Estate
-ESRT,Empire State Realty Trust Inc. Class A Common Stock,5.45,939744628.0,1022105,Real Estate
-PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,10.46,912136707.0,966932,Real Estate
-LANDO,Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock,20.93,902848473.0,9370,Real Estate
-LANDP,Gladstone Land Corporation 6.00% Series C Cumulative Redeemable Preferred Stock,20.67,891632964.0,11208,Real Estate
-NUTX,Nutex Health Inc. Common Stock,127.84,879710378.0,87733,Real Estate
-BFS,Saul Centers Inc. Common Stock,33.45,820720637.0,36808,Real Estate
-ADAM,Adamas Trust Inc. Common Stock,8.92,801561083.0,771836,Real Estate
-BRSP,BrightSpire Capital Inc. Class A Common Stock,5.76,750401654.0,1071155,Real Estate
-IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,8.08,750012014.0,1633424,Real Estate
-MITN,TPG Mortgage Investment Trust Inc. 9.500% Senior Notes due 2029,25.215,743665592.0,4081,Real Estate
-MITP,TPG Mortgage Investment Trust Inc. 9.500% Senior Notes due 2029,25.14,741453618.0,7083,Real Estate
-NXRT,NexPoint Residential Trust Inc. Common Stock,28.7,731604299.0,177197,Real Estate
-FBRT,Franklin BSP Realty Trust Inc. Common Stock,9.12,701902642.0,1416268,Real Estate
-CTO,CTO Realty Growth Inc. Common Stock,20.08,678374527.0,287193,Real Estate
-RWT,Redwood Trust Inc. Common Stock,5.26,658634777.0,865902,Real Estate
-QNST,QuinStreet Inc. Common Stock,11.15,640515876.0,1360385,Real Estate
-TRTX,TPG RE Finance Trust Inc. Common Stock,8.24,637019642.0,536824,Real Estate
-PSTL,Postal Realty Trust Inc. Class A Common Stock,23.0,635348734.0,491446,Real Estate
-NHPAP,National Healthcare Properties Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock,21.73,617396737.0,5858,Real Estate
-AIV,Apartment Investment and Management Company Common Stock,4.23,608511654.0,1109062,Real Estate
-GOOD,Gladstone Commercial Corporation Real Estate Investment Trust,12.45,602667063.0,365784,Real Estate
-NHPBP,National Healthcare Properties Inc. 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock,20.89,593530503.0,1596,Real Estate
-CASS,Cass Information Systems Inc Common Stock,45.77,589112490.0,57056,Real Estate
-INN,Summit Hotel Properties Inc. Common Stock,5.4,585171421.0,964079,Real Estate
-UHT,Universal Health Realty Income Trust Common Stock,40.76,565569374.0,71719,Real Estate
-PHR,Phreesia Inc. Common Stock,8.77,532892080.0,1886326,Real Estate
-BDN,Brandywine Realty Trust Common Stock,3.06,531558246.0,1393076,Real Estate
-ILPT,Industrial Logistics Properties Trust Common Shares of Beneficial Interest,7.95,529990494.0,415356,Real Estate
-MAX,MediaAlpha Inc. Class A Common Stock,8.05,501920897.0,517437,Real Estate
-OLP,One Liberty Properties Inc. Common Stock,22.89,499447165.0,49237,Real Estate
-PRTH,Priority Technology Holdings Inc. Common Stock,5.98,492483917.0,291262,Real Estate
-CHCT,Community Healthcare Trust Incorporated Common Stock,17.08,488006224.0,167610,Real Estate
-CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,9.99,466345388.0,635300,Real Estate
-IMXI,International Money Express Inc. Common Stock,15.23,458339113.0,959886,Real Estate
-XRN,Chiron Real Estate Inc. Common Stock,34.58,457660421.0,113456,Real Estate
-ADV,Advantage Solutions Inc. Class A Common Stock,34.06,452837237.0,55856,Real Estate
-FPI,Farmland Partners Inc. Common Stock,10.35,451438030.0,338613,Real Estate
-ALIT,Alight Inc. Class A Common Stock,0.8,429793585.0,30124771,Real Estate
-KREF,KKR Real Estate Finance Trust Inc. Common Stock,6.49,417309706.0,1278196,Real Estate
-LAND,Gladstone Land Corporation Common Stock,9.44,407209249.0,708721,Real Estate
-FVR,FrontView REIT Inc. Common Stock,17.7,400940896.0,63323,Real Estate
-CTEV,Claritev Corporation Class A Common Stock,23.47,400111608.0,229724,Real Estate
-RMNI,Rimini Street Inc. (DE) Common Stock,3.49,323034400.0,664210,Real Estate
-PINE,Alpine Income Property Trust Inc. Common Stock,19.0,313969471.0,120033,Real Estate
-TCI,Transcontinental Realty Investors Inc. Common Stock,35.71,308509974.0,814,Real Estate
-RPAY,Repay Holdings Corporation Class A Common Stock,3.37,302198273.0,442429,Real Estate
-GETY,Getty Images Holdings Inc. Class A Common Stock,0.7149,299513964.0,977608,Real Estate
-SITC,SITE Centers Corp. Common Stock,5.43,284938566.0,344362,Real Estate
-RC,Ready Capital Corporation Common Stock,1.72,284176802.0,1139452,Real Estate
-NREF,NexPoint Real Estate Finance Inc. Common Stock,14.94,279183526.0,113018,Real Estate
-BRT,BRT Apartments Corp. (MD) Common Stock,14.63,275370542.0,16507,Real Estate
-ACRE,Ares Commercial Real Estate Corporation Common Stock,4.72,261870853.0,381842,Real Estate
-NXDT,NexPoint Diversified Real Estate Trust Common Stock,5.06,254111125.0,141221,Real Estate
-MITT,TPG Mortgage Investment Trust Inc. Common Stock,7.72,245522827.0,104656,Real Estate
-REFI,Chicago Atlantic Real Estate Finance Inc. Common Stock,11.32,240065821.0,122128,Real Estate
-STRS,Stratus Properties Inc. Common Stock,29.71,237166700.0,9550,Real Estate
-CNDT,Conduent Incorporated Common Stock ,1.44,223339412.0,1611571,Real Estate
-ARL,American Realty Investors Inc. Common Stock,13.12,211914804.0,2923,Real Estate
-SEVN,Seven Hills Realty Trust Common Stock,8.32,187999361.0,83952,Real Estate
-MDV,Modiv Industrial Inc. Class C Common Stock,17.89,184690456.0,59753,Real Estate
-EARN,Ellington Credit Company Common Shares of Beneficial Interest,4.82,181035320.0,180904,Real Estate
-ELME,Elme Communities Common Stock,2.01,178604345.0,1104192,Real Estate
-BHR,Braemar Hotels & Resorts Inc. Common Stock,2.57,176505847.0,337550,Real Estate
-STRW,Strawberry Fields REIT Inc. Common Stock,13.13,176291389.0,22630,Real Estate
-NLOP,Net Lease Office Properties Common Shares of Beneficial Interest,11.53,170806285.0,135480,Real Estate
-ONL,Orion Properties Inc. Common Stock,2.98,169353603.0,410913,Real Estate
-NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,58.151,162166450.0,2172,Real Estate
-DHX,DHI Group Inc. Common Stock,3.72,160698446.0,209863,Real Estate
-NRDY,Nerdy Inc. Class A Common Stock,0.8344,158626641.0,555138,Real Estate
-RGP,Resources Connection Inc. Common Stock,4.36,149675940.0,226852,Real Estate
-ACR,ACRES Commercial Realty Corp. Common Stock,20.67,147399858.0,8119,Real Estate
-AMWL,American Well Corporation Class A Common Stock,7.78,129991998.0,35825,Real Estate
-AXR,AMREP Corporation Common Stock,24.34,129128544.0,2971,Real Estate
-CHGG,Chegg Inc. Common Stock,1.05,117556780.0,2816833,Real Estate
-RPT,Rithm Property Trust Inc. Common stock,14.94,116122106.0,49929,Real Estate
-SUNS,Sunrise Realty Trust Inc. Common Stock,8.02,108427633.0,302494,Real Estate
-STHO,Star Holdings Shares of Beneficial Interest,8.56,103416210.0,7591,Real Estate
-SCOR,comScore Inc. Common Stock,6.78,102081260.0,8504,Real Estate
-OPRX,OptimizeRx Corporation Common Stock,5.18,97203089.0,1180214,Real Estate
-MAYS,J. W. Mays Inc. Common Stock,42.54,85751281.0,13,Real Estate
-IH,iHuman Inc. American depositary shares each representing five Class A ordinary shares,1.65,84336222.0,6610,Real Estate
-INTG,Intergroup Corporation (The) Common Stock,38.37,82449916.0,33870,Real Estate
-GPMT,Granite Point Mortgage Trust Inc. Common Stock,1.36,65170690.0,70274,Real Estate
-SELF,Global Self Storage Inc. Common Stock,5.325,60820723.0,11642,Real Estate
-LFT,Lument Finance Trust Inc. Common Stock,1.15,60305382.0,119365,Real Estate
-FSP,Franklin Street Properties Corp. Common Stock,0.5152,53421263.0,243330,Real Estate
-SACH,Sachem Capital Corp. Common Shares,1.05,50365531.0,179298,Real Estate
-CLPR,Clipper Realty Inc. Common Stock,3.02,48795849.0,49411,Real Estate
-LOAN,Manhattan Bridge Capital Inc,4.22,48231861.0,20948,Real Estate
-HGBL,Heritage Global Inc. Common Stock,1.22,42384695.0,26122,Real Estate
-WHLRD,Wheeler Real Estate Investment Trust Inc. Series D Cumulative Preferred Stock,35.5102,37023396.0,837,Real Estate
-AHT,Ashford Hospitality Trust Inc Common Stock,2.95,19105648.0,14815,Real Estate
-MDRR,Medalist Diversified Inc. Common Stock,11.15,18157775.0,35,Real Estate
-SGRP,SPAR Group Inc. Common Stock,0.662,16636054.0,85967,Real Estate
-GYRO,Gyrodyne LLC Common Stock,7.4,16274879.0,3611,Real Estate
-CMCT,Creative Media & Community Trust Corporation Common stock,5.32,14040321.0,45587,Real Estate
-SQFTP,Presidio Property Trust Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock $0.01 par value per share,6.6966,9654341.0,4339,Real Estate
-WHLRP,Wheeler Real Estate Investment Trust Inc. Class B Preferred Stock,7.0628,7363767.0,1140,Real Estate
-TGL,Treasure Global Inc. Common Stock,4.16,6971016.0,18346,Real Estate
-XHLD,TEN Holdings Inc. Common Stock,1.5,5966165.0,90310,Real Estate
-CJMB,Callan JMB Inc. Common Stock,0.9996,5625117.0,61003,Real Estate
-OLB,The OLB Group Inc. Common Stock,0.4257,5323697.0,175835,Real Estate
-MKZR,MacKenzie Realty Capital Inc. Common Stock,2.24,4404736.0,16144,Real Estate
-SQFT,Presidio Property Trust Inc. Class A Common Stock,3.02,4353868.0,17076,Real Estate
-EEIQ,EpicQuest Education Group International Limited Common Stock,2.9,4290489.0,23575,Real Estate
-KIDZ,Classover Holdings Inc. Class B Common Stock,0.55,3729300.0,596347,Real Estate
-SOPA,Society Pass Incorporated Common Stock,0.2752,3574117.0,2161886,Real Estate
-BOXL,Boxlight Corporation Class A Common Stock,0.871,3485487.0,257087,Real Estate
-UK,Ucommune International Ltd Class A Ordinary Shares,3.41,2311813.0,144254,Real Estate
-PW,Power REIT (MD) Common Stock,0.6085,2234579.0,54237,Real Estate
-GIPR,Generation Income Properties Inc. Common Stock,0.265,1443767.0,71151,Real Estate
-WHLR,Wheeler Real Estate Investment Trust Inc. Common Stock,1.18,1230283.0,85654,Real Estate
-GIPRW,Generation Income Properties Inc Warrant,0.0241,131301.0,8548,Real Estate
-KIDZW,Classover Holdings Inc. Warrants,0.0138,93572.0,60,Real Estate
-SQFTW,Presidio Property Trust Inc. Series A Common Stock Purchase Warrants,0.0171,24653.0,2630,Real Estate
-PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,25.23,0.0,43494,Real Estate
-PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,25.59,0.0,14288,Real Estate
-ELLA,Ellington Credit Company 8.50% Notes due 2031,25.7,0.0,5050,Real Estate
-ADAMO,Adamas Trust Inc. 9.250% Senior Notes Due 2031,25.23,0.0,9352,Real Estate
-ADAMH,Adamas Trust Inc. 9.875% Senior Notes Due 2030,25.67,0.0,5225,Real Estate
-ADAMG,Adamas Trust Inc. 9.125% Senior Notes Due 2030,25.2401,0.0,7140,Real Estate
-CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,25.1,0.0,11320,Real Estate
-CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,25.22,0.0,1125,Real Estate
-TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030,25.26,0.0,42344,Real Estate
-RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,22.59,0.0,9497,Real Estate
-RWTP,Redwood Trust Inc. 9.125% Senior Notes Due 2030,25.19,0.0,8114,Real Estate
-RWTQ,Redwood Trust Inc. 9.500% Senior Notes Due 2030,25.38,0.0,11629,Real Estate
+WELL,Welltower Inc. Common Stock,213.74,150882154543.0,4531074,Real Estate
+PLD,Prologis Inc. Common Stock,140.53,131021459140.0,2970218,Real Estate
+EQIX,Equinix Inc. Common Stock REIT,1059.44,104486473301.0,453753,Real Estate
+AMT,American Tower Corporation (REIT) Common Stock,170.63,79495334363.0,4632975,Real Estate
+DLR,Digital Realty Trust Inc. Common Stock,188.51,66243558256.0,2569425,Real Estate
+SPG,Simon Property Group Inc. Common Stock,200.02,64864468198.0,2152157,Real Estate
+O,Realty Income Corporation Common Stock,61.12,56993943434.0,5294862,Real Estate
+PSA,Public Storage Common Stock,292.47,51341864918.0,767016,Real Estate
+VTR,Ventas Inc. Common Stock,87.45,42515542276.0,3815556,Real Estate
+CCI,Crown Castle Inc. Common Stock,86.66,37822928847.0,3732754,Real Estate
+IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,125.07,37211411853.0,1249797,Real Estate
+VICI,VICI Properties Inc. Common Stock,27.9,29825942217.0,7611908,Real Estate
+AGNCN,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock,25.72,29524740876.0,5540,Real Estate
+AGNCO,AGNC Investment Corp. Depositary Shares each representing a 1/1000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock,25.53,29306634314.0,12006,Real Estate
+EXR,Extra Space Storage Inc Common Stock,136.9,28921622138.0,1010188,Real Estate
+AGNCL,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock,24.89,28571959580.0,3086,Real Estate
+AGNCP,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,24.87,28549000995.0,13585,Real Estate
+AGNCM,AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock,24.84,28514563116.0,11748,Real Estate
+AVB,AvalonBay Communities Inc. Common Stock,180.84,25157026558.0,997299,Real Estate
+EQR,Equity Residential Common Shares of Beneficial Interest,63.88,23934030432.0,2147112,Real Estate
+SBAC,SBA Communications Corporation Class A Common Stock,199.62,21172299454.0,1063887,Real Estate
+ESS,Essex Property Trust Inc. Common Stock,267.06,17162040994.0,835969,Real Estate
+WY,Weyerhaeuser Company Common Stock,22.68,16353255240.0,6414398,Real Estate
+WPC,W. P. Carey Inc. REIT,72.89,16235453363.0,922256,Real Estate
+NLY,Annaly Capital Management Inc. Common Stock,21.68,15880181706.0,6479236,Real Estate
+KIM,Kimco Realty Corporation (HC) Common Stock,23.0,15510965216.0,4388356,Real Estate
+SUI,Sun Communities Inc. Common Stock,120.41,14838215450.0,758618,Real Estate
+LAMR,Lamar Advertising Company Class A Common Stock,145.54,14768686200.0,672434,Real Estate
+HST,Host Hotels & Resorts Inc. Common Stock,21.38,14642719028.0,11014102,Real Estate
+MAA,Mid-America Apartment Communities Inc. Common Stock,125.71,14630733459.0,782990,Real Estate
+OHI,Omega Healthcare Investors Inc. Common Stock,47.33,14094968660.0,3392817,Real Estate
+REG,Regency Centers Corporation Common Stock,76.06,13926341847.0,1003054,Real Estate
+DOC,Healthpeak Properties Inc. Common Stock,19.36,13347165431.0,12908463,Real Estate
+GLPI,Gaming and Leisure Properties Inc. Common Stock,46.38,13145057910.0,1571207,Real Estate
+UDR,UDR Inc. Common Stock,36.92,11995885909.0,4616688,Real Estate
+AGNC,AGNC Investment Corp. Common Stock,10.34,11869588672.0,18605177,Real Estate
+ELS,Equity Lifestyle Properties Inc. Common Stock,61.11,11851523864.0,1611644,Real Estate
+AMH,American Homes 4 Rent Common Shares of Beneficial Interest,30.61,11037831071.0,4233912,Real Estate
+CPT,Camden Property Trust Common Stock,102.59,10312319306.0,1694382,Real Estate
+FRT,Federal Realty Investment Trust Common Stock,113.16,9775801533.0,1081025,Real Estate
+CTRE,CareTrust REIT Inc. Common Stock,41.14,9718923268.0,1714598,Real Estate
+AHR,American Healthcare REIT Inc. Common Stock,49.35,9510845900.0,3321877,Real Estate
+BXP,BXP Inc. Common Stock,58.5,9329427374.0,1384370,Real Estate
+BRX,Brixmor Property Group Inc. Common Stock,29.24,8971902681.0,1720660,Real Estate
+ADC,Agree Realty Corporation Common Stock,74.46,8942858881.0,963825,Real Estate
+LINE,Lineage Inc. Common Stock,38.45,8754079334.0,720884,Real Estate
+CUBE,CubeSmart Common Shares,38.36,8685226847.0,2124276,Real Estate
+NNN,NNN REIT Inc. Common Stock,43.72,8317650298.0,1610853,Real Estate
+FR,First Industrial Realty Trust Inc. Common Stock,60.83,8064258892.0,804078,Real Estate
+REXR,Rexford Industrial Realty Inc. Common Stock,34.74,7841447454.0,1530898,Real Estate
+ARE,Alexandria Real Estate Equities Inc. Common Stock,44.97,7836898516.0,1518217,Real Estate
+STAG,Stag Industrial Inc. Common Stock,37.77,7221814927.0,884227,Real Estate
+HR,Healthcare Realty Trust Incorporated Common Stock,20.29,7030922818.0,3450204,Real Estate
+RHP,Ryman Hospitality Properties Inc. (REIT),104.79,6613220613.0,1006448,Real Estate
+EPRT,Essential Properties Realty Trust Inc. Common Stock,30.21,6532790301.0,1217418,Real Estate
+STWD,STARWOOD PROPERTY TRUST INC. Starwood Property Trust Inc.,17.04,6317555633.0,2720163,Real Estate
+RYN,Rayonier Inc. REIT Common Stock,19.82,5960809960.0,3482505,Real Estate
+VNO,Vornado Realty Trust Common Stock,30.58,5752029378.0,1325226,Real Estate
+MAC,Macerich Company (The) Common Stock,21.6,5645833639.0,4178556,Real Estate
+OUT,OUTFRONT Media Inc. Common Stock,31.51,5547761200.0,3117855,Real Estate
+KRG,Kite Realty Group Trust Common Stock,25.93,5265515667.0,2208814,Real Estate
+SBRA,Sabra Health Care REIT Inc. Common Stock,20.67,5212769264.0,1528774,Real Estate
+RITM,Rithm Capital Corp. Common Stock,9.13,5097339231.0,5947074,Real Estate
+PECO,Phillips Edison & Company Inc. Common Stock,39.29,4950540000.0,935960,Real Estate
+GHC,Graham Holdings Company Common Stock,1093.0,4707642812.0,11457,Real Estate
+DHCNL,Diversified Healthcare Trust 6.25% Senior Notes Due 2046,19.11,4613428362.0,9318,Real Estate
+DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,18.88,4557903060.0,1631,Real Estate
+LAUR,Laureate Education Inc. Common Stock,32.12,4496102643.0,1038045,Real Estate
+EPR,EPR Properties Common Stock,57.35,4387714645.0,578341,Real Estate
+REGCP,Regency Centers Corporation 6.25% Series A Cumulative Redeemable Preferred Stock,23.4,4284464886.0,322,Real Estate
+CUZ,Cousins Properties Incorporated Common Stock,25.81,4246785995.0,2169702,Real Estate
+LOPE,Grand Canyon Education Inc. Common Stock,157.86,4185546767.0,230642,Real Estate
+CVSA,Covista Inc. Common Shares,122.93,4183416939.0,214279,Real Estate
+REGCO,Regency Centers Corporation 5.875% Series B Cumulative Redeemable Preferred Stock,22.5,4119677775.0,1889,Real Estate
+FRMI,Fermi Inc. Common Stock,6.51,4100257033.0,17519831,Real Estate
+COLD,Americold Realty Trust Inc. Common Stock,14.26,4068464302.0,3627597,Real Estate
+SKT,Tanger Inc. Common Stock,35.27,4051671265.0,697314,Real Estate
+KRC,Kilroy Realty Corporation Common Stock,34.36,3995339809.0,1163616,Real Estate
+BNL,Broadstone Net Lease Inc. Common Stock,19.89,3814236779.0,1951566,Real Estate
+HHH,Howard Hughes Holdings Inc. Common Stock,63.79,3803452532.0,256285,Real Estate
+IRT,Independence Realty Trust Inc. Common Stock,16.0,3771434912.0,2163922,Real Estate
+LRN,Stride Inc. Common Stock,88.29,3754518124.0,350939,Real Estate
+JOE,St. Joe Company (The) Common Stock,63.57,3649537553.0,157625,Real Estate
+NHI,National Health Investors Inc. Common Stock,74.63,3617396626.0,537476,Real Estate
+CDP,COPT Defense Properties Common Shares of Beneficial Interest,31.71,3595180960.0,964043,Real Estate
+APLE,Apple Hospitality REIT Inc. Common Shares,13.76,3248289543.0,2052261,Real Estate
+RWTN,Redwood Trust Inc. 9.125% Senior Notes Due 2029,24.9,3217664254.0,12383,Real Estate
+RWTO,Redwood Trust Inc. 9.00% Senior Notes Due 2029,24.55,3172436041.0,4874,Real Estate
+NSA,National Storage Affiliates Trust Common Shares of Beneficial Interest,41.02,3167258104.0,931457,Real Estate
+BXMT,Blackstone Mortgage Trust Inc. Common Stock,18.06,3046424371.0,1145664,Real Estate
+MPT,Medical Properties Trust Inc. common stock,5.05,3020405000.0,6078558,Real Estate
+SLG,SL Green Realty Corp Common Stock,42.45,3019234303.0,939865,Real Estate
+LXP,LXP Industrial Trust Common Stock (Maryland REIT),50.83,2996556185.0,330882,Real Estate
+DBRG,DigitalBridge Group Inc.,15.66,2855951502.0,3201147,Real Estate
+HIW,Highwoods Properties Inc. Common Stock,25.47,2808645593.0,1677597,Real Estate
+AKR,Acadia Realty Trust Common Stock,20.91,2791843418.0,1098325,Real Estate
+DX,Dynex Capital Inc. Common Stock,12.97,2790507264.0,4417352,Real Estate
+FCPT,Four Corners Property Trust Inc. Common Stock,24.47,2685562851.0,792074,Real Estate
+UNIT,Uniti Group Inc. Common Stock,11.05,2683112955.0,1558904,Real Estate
+MFAO,MFA Financial Inc. 9.000% Senior Notes due 2029,25.12,2579037794.0,18911,Real Estate
+MFAN,MFA Financial Inc. 8.875% Senior Notes due 2029,25.07,2573904359.0,75979,Real Estate
+IVT,InvenTrust Properties Corp. Common Stock,31.35,2443289117.0,406318,Real Estate
+ADAMI,Adamas Trust Inc. 9.125% Senior Notes Due 2029,25.3,2291660060.0,2228,Real Estate
+ADAMM,Adamas Trust Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,25.5,2291458254.0,3994,Real Estate
+PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,25.5,2223660231.0,924,Real Estate
+UTI,Universal Technical Institute Inc Common Stock,39.56,2178228232.0,938651,Real Estate
+ADAML,Adamas Trust Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock $0.01 par value per share,24.13,2168348536.0,10112,Real Estate
+PRDO,Perdoceo Education Corporation Common Stock,34.01,2132533553.0,608846,Real Estate
+ADAMN,Adamas Trust Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,23.6,2120722149.0,979,Real Estate
+ARR,ARMOUR Residential REIT Inc.,16.98,2106303050.0,2845681,Real Estate
+DRH,Diamondrock Hospitality Company Common Stock,10.3,2106253087.0,1771453,Real Estate
+CXW,CoreCivic Inc. Common Stock,20.74,2050946660.0,1609415,Real Estate
+CIMN,Chimera Investment Corporation 9.000% Senior Notes due 2029,25.18,2027762925.0,15871,Real Estate
+DHC,Diversified Healthcare Trust Common Shares of Beneficial Interest,8.36,2024013901.0,1165430,Real Estate
+NTST,NetSTREIT Corp. Common Stock,20.44,1988006807.0,1269140,Real Estate
+DEI,Douglas Emmett Inc. Common Stock,11.68,1956227919.0,2456383,Real Estate
+GNL,Global Net Lease Inc. Common Stock,9.23,1956127293.0,1975010,Real Estate
+LTC,LTC Properties Inc. Common Stock,37.91,1940288997.0,352627,Real Estate
+STRA,Strategic Education Inc. Common Stock,78.79,1781671100.0,279735,Real Estate
+VRE,Veris Residential Inc. Common Stock,18.96,1779168802.0,621203,Real Estate
+SILA,Sila Realty Trust Inc. Common Stock,30.55,1687777215.0,275320,Real Estate
+SMA,SmartStop Self Storage REIT Inc. Common Stock,29.64,1641027344.0,669378,Real Estate
+ADAMZ,Adamas Trust Inc. 7.000% Series G Cumulative Redeemable Preferred Stock $0.01 par value per share,18.26,1640863832.0,2788,Real Estate
+PEB,Pebblebrook Hotel Trust Common Shares of Beneficial Interest,14.06,1593971444.0,1266850,Real Estate
+NHPAP,National Healthcare Properties Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock,21.65,1578390565.0,14339,Real Estate
+LINC,Lincoln Educational Services Corporation Common Stock,49.1,1557487745.0,637392,Real Estate
+NHPBP,National Healthcare Properties Inc. 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock,20.7,1509130933.0,15239,Real Estate
+CBL,CBL & Associates Properties Inc. Common Stock,46.6,1442025723.0,198978,Real Estate
+ARI,Apollo Commercial Real Estate Finance Inc,10.84,1440090770.0,1589706,Real Estate
+ORC,Orchid Island Capital Inc. Common Stock,6.86,1369943550.0,4833701,Real Estate
+RLJ,RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value,8.95,1359771048.0,2335001,Real Estate
+TWO,Two Harbors Investment Corp,12.6,1323583796.0,2428134,Real Estate
+AAT,American Assets Trust Inc. Common Stock,20.77,1275089741.0,303774,Real Estate
+UMH,UMH Properties Inc. Common Stock,14.92,1270679629.0,880381,Real Estate
+LADR,Ladder Capital Corp Class A Common Stock,9.89,1262637351.0,915172,Real Estate
+ALX,Alexander's Inc. Common Stock,229.88,1174063825.0,33915,Real Estate
+SCCD,Sachem Capital Corp. 6.00% Notes due 2026,24.7034,1169515477.0,419,Real Estate
+SCCG,Sachem Capital Corp. 8.00% Notes due 2027,24.035,1137871892.0,518,Real Estate
+SCCF,Sachem Capital Corp. 7.125% Notes due 2027,24.0,1136214912.0,1191,Real Estate
+SCCE,Sachem Capital Corp. 6.00% Notes due 2027,23.9501,1133852532.0,4924,Real Estate
+CSR,D/B/A Centerspace Common Stock,66.97,1125306889.0,127419,Real Estate
+ABR,Arbor Realty Trust Common Stock,5.79,1113771365.0,4124781,Real Estate
+CIM,Chimera Investment Corporation Common Stock,13.09,1094926376.0,572920,Real Estate
+GOODN,Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock,22.27,1078023734.0,1259,Real Estate
+SVC,Service Properties Trust Common Stock,1.66,1074363555.0,6676930,Real Estate
+DEA,Easterly Government Properties Inc. Common Stock,23.02,1069264589.0,409012,Real Estate
+JBGS,JBG SMITH Properties Common Shares ,14.22,1059597413.0,498035,Real Estate
+SAFE,Safehold Inc. New Common Stock ,14.17,1014713728.0,261769,Real Estate
+GOODO,Gladstone Commercial Corporation 6.00% Series G Cumulative Redeemable Preferred Stock par value $0.001 per share,20.275,981451783.0,8281,Real Estate
+APEI,American Public Education Inc. Common Stock,53.32,978074780.0,386159,Real Estate
+WSR,Whitestone REIT Common Shares,18.99,975971623.0,413199,Real Estate
+PDM,Piedmont Realty Trust Inc. Class A Common Stock,7.8,975148223.0,761520,Real Estate
+MFA,MFA Financial Inc.,9.31,945860920.0,1305253,Real Estate
+ESRT,Empire State Realty Trust Inc. Class A Common Stock,5.38,927674514.0,892973,Real Estate
+LANDO,Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock,20.875,900475961.0,14515,Real Estate
+PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,10.28,896440281.0,1051311,Real Estate
+LANDP,Gladstone Land Corporation 6.00% Series C Cumulative Redeemable Preferred Stock,20.72,893789793.0,34117,Real Estate
+BFS,Saul Centers Inc. Common Stock,33.0,809679552.0,91006,Real Estate
+ADAM,Adamas Trust Inc. Common Stock,8.72,783588862.0,697063,Real Estate
+MITN,TPG Mortgage Investment Trust Inc. 9.500% Senior Notes due 2029,25.2,743223197.0,851,Real Estate
+BRSP,BrightSpire Capital Inc. Class A Common Stock,5.7,742584971.0,951228,Real Estate
+MITP,TPG Mortgage Investment Trust Inc. 9.500% Senior Notes due 2029,25.1602,742049376.0,2533,Real Estate
+IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,7.98,740729687.0,2717148,Real Estate
+NXRT,NexPoint Residential Trust Inc. Common Stock,28.1,716309436.0,159775,Real Estate
+FBRT,Franklin BSP Realty Trust Inc. Common Stock,9.04,695745601.0,1400242,Real Estate
+CTO,CTO Realty Growth Inc. Common Stock,19.98,674996168.0,198120,Real Estate
+RWT,Redwood Trust Inc. Common Stock,5.18,648617518.0,851417,Real Estate
+PSTL,Postal Realty Trust Inc. Class A Common Stock,22.68,626509099.0,345898,Real Estate
+TRTX,TPG RE Finance Trust Inc. Common Stock,8.1,626196493.0,473558,Real Estate
+AIV,Apartment Investment and Management Company Common Stock,4.19,602757407.0,1270635,Real Estate
+GOOD,Gladstone Commercial Corporation Real Estate Investment Trust,12.31,595890084.0,315812,Real Estate
+INN,Summit Hotel Properties Inc. Common Stock,5.24,567833009.0,784604,Real Estate
+UHT,Universal Health Realty Income Trust Common Stock,40.26,558631575.0,64736,Real Estate
+ILPT,Industrial Logistics Properties Trust Common Shares of Beneficial Interest,7.86,523990602.0,375890,Real Estate
+BDN,Brandywine Realty Trust Common Stock,2.99,519398417.0,1295620,Real Estate
+OLP,One Liberty Properties Inc. Common Stock,22.43,489410219.0,52693,Real Estate
+CHCT,Community Healthcare Trust Incorporated Common Stock,16.87,482006148.0,162002,Real Estate
+CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,9.89,461677266.0,349421,Real Estate
+XRN,Chiron Real Estate Inc. Common Stock,33.53,443763850.0,113753,Real Estate
+FPI,Farmland Partners Inc. Common Stock,10.16,443150762.0,413713,Real Estate
+KREF,KKR Real Estate Finance Trust Inc. Common Stock,6.33,407021640.0,751644,Real Estate
+LAND,Gladstone Land Corporation Common Stock,9.4,405483786.0,498918,Real Estate
+FVR,FrontView REIT Inc. Common Stock,17.37,393465726.0,61521,Real Estate
+PINE,Alpine Income Property Trust Inc. Common Stock,18.73,309507800.0,99511,Real Estate
+TCI,Transcontinental Realty Investors Inc. Common Stock,34.7,299784265.0,1418,Real Estate
+RC,Ready Capital Corporation Common Stock,1.73,285828993.0,2290699,Real Estate
+SITC,SITE Centers Corp. Common Stock,5.39,282839571.0,637941,Real Estate
+NREF,NexPoint Real Estate Finance Inc. Common Stock,15.06,281425964.0,60788,Real Estate
+BRT,BRT Apartments Corp. (MD) Common Stock,14.28,268782730.0,22507,Real Estate
+ACRE,Ares Commercial Real Estate Corporation Common Stock,4.6,255213120.0,372566,Real Estate
+REFI,Chicago Atlantic Real Estate Finance Inc. Common Stock,11.26,238793387.0,166226,Real Estate
+MITT,TPG Mortgage Investment Trust Inc. Common Stock,7.48,237889993.0,144130,Real Estate
+NXDT,NexPoint Diversified Real Estate Trust Common Stock,4.71,236534269.0,86111,Real Estate
+STRS,Stratus Properties Inc. Common Stock,29.23,233334993.0,30046,Real Estate
+ARL,American Realty Investors Inc. Common Stock,13.26,214176090.0,1876,Real Estate
+MDV,Modiv Industrial Inc. Class C Common Stock,17.96,185413113.0,82340,Real Estate
+SEVN,Seven Hills Realty Trust Common Stock,8.18,184835910.0,74699,Real Estate
+EARN,Ellington Credit Company Common Shares of Beneficial Interest,4.82,181035320.0,335638,Real Estate
+ELME,Elme Communities Common Stock,2.01,178604345.0,943183,Real Estate
+STRW,Strawberry Fields REIT Inc. Common Stock,13.03,174948728.0,10696,Real Estate
+BHR,Braemar Hotels & Resorts Inc. Common Stock,2.5,171698295.0,404775,Real Estate
+NLOP,Net Lease Office Properties Common Shares of Beneficial Interest,11.47,169917440.0,104487,Real Estate
+ONL,Orion Properties Inc. Common Stock,2.9,164807197.0,227016,Real Estate
+NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,59.0,164534067.0,548,Real Estate
+NRDY,Nerdy Inc. Class A Common Stock,0.8212,156117207.0,289129,Real Estate
+ACR,ACRES Commercial Realty Corp. Common Stock,19.57,139555647.0,16126,Real Estate
+AXR,AMREP Corporation Common Stock,25.19,133637963.0,9832,Real Estate
+CHGG,Chegg Inc. Common Stock,1.02,114198015.0,1093932,Real Estate
+RPT,Rithm Property Trust Inc. Common stock,14.27,110914488.0,23004,Real Estate
+SUNS,Sunrise Realty Trust Inc. Common Stock,7.93,107199366.0,90458,Real Estate
+STHO,Star Holdings Shares of Beneficial Interest,8.38,101241571.0,7323,Real Estate
+MAYS,J. W. Mays Inc. Common Stock,42.54,85751281.0,16,Real Estate
+IH,iHuman Inc. American depositary shares each representing five Class A ordinary shares,1.65,84336222.0,4133,Real Estate
+INTG,Intergroup Corporation (The) Common Stock,36.52,78474614.0,40480,Real Estate
+IOR,Income Opportunity Realty Investors Inc. Common Stock,18.0,73191204.0,72,Real Estate
+GPMT,Granite Point Mortgage Trust Inc. Common Stock,1.37,65649886.0,87687,Real Estate
+SELF,Global Self Storage Inc. Common Stock,5.28,60306745.0,12799,Real Estate
+LFT,Lument Finance Trust Inc. Common Stock,1.07,56110225.0,271779,Real Estate
+FSP,Franklin Street Properties Corp. Common Stock,0.5163,53535323.0,403631,Real Estate
+SACH,Sachem Capital Corp. Common Shares,1.03,49406187.0,71553,Real Estate
+LOAN,Manhattan Bridge Capital Inc,4.22,48231861.0,16744,Real Estate
+CLPR,Clipper Realty Inc. Common Stock,2.92,47180093.0,117050,Real Estate
+WHLRD,Wheeler Real Estate Investment Trust Inc. Series D Cumulative Preferred Stock,35.5102,37023396.0,35,Real Estate
+AHT,Ashford Hospitality Trust Inc Common Stock,2.89,18717059.0,12153,Real Estate
+MDRR,Medalist Diversified Inc. Common Stock,11.15,18157775.0,2726,Real Estate
+GYRO,Gyrodyne LLC Common Stock,7.4,16274879.0,401,Real Estate
+CMCT,Creative Media & Community Trust Corporation Common stock,5.49,14488977.0,35416,Real Estate
+SQFTP,Presidio Property Trust Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock $0.01 par value per share,6.43,9269990.0,953,Real Estate
+WHLRP,Wheeler Real Estate Investment Trust Inc. Class B Preferred Stock,7.0628,7363767.0,34,Real Estate
+MKZR,MacKenzie Realty Capital Inc. Common Stock,2.35,4621040.0,47862,Real Estate
+EEIQ,EpicQuest Education Group International Limited Common Stock,2.82,4172131.0,9859,Real Estate
+SQFT,Presidio Property Trust Inc. Class A Common Stock,2.835,4087157.0,16725,Real Estate
+KIDZ,Classover Holdings Inc. Class B Common Stock,0.4689,3663684.0,497874,Real Estate
+BOXL,Boxlight Corporation Class A Common Stock,0.8519,3409054.0,32789,Real Estate
+PW,Power REIT (MD) Common Stock,0.5901,2167009.0,16274,Real Estate
+GIPR,Generation Income Properties Inc. Common Stock,0.254,1383837.0,70401,Real Estate
+WHLR,Wheeler Real Estate Investment Trust Inc. Common Stock,1.12,1167727.0,38216,Real Estate
+GIPRW,Generation Income Properties Inc Warrant,0.0301,163990.0,300,Real Estate
+KIDZW,Classover Holdings Inc. Warrants,0.014,109387.0,6958,Real Estate
+SQFTW,Presidio Property Trust Inc. Series A Common Stock Purchase Warrants,0.016,23067.0,27934,Real Estate
+CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,25.02,0.0,21694,Real Estate
+RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,22.69,0.0,1606,Real Estate
+TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030,25.3,0.0,21848,Real Estate
+ADAMO,Adamas Trust Inc. 9.250% Senior Notes Due 2031,25.31,0.0,14559,Real Estate
+ADAMG,Adamas Trust Inc. 9.125% Senior Notes Due 2030,25.23,0.0,4501,Real Estate
+ADAMH,Adamas Trust Inc. 9.875% Senior Notes Due 2030,25.7,0.0,7706,Real Estate
+ELLA,Ellington Credit Company 8.50% Notes due 2031,25.6501,0.0,2082,Real Estate
+CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,25.25,0.0,1799,Real Estate
+RWTP,Redwood Trust Inc. 9.125% Senior Notes Due 2030,24.55,0.0,3890,Real Estate
+RWTQ,Redwood Trust Inc. 9.500% Senior Notes Due 2030,24.8,0.0,8882,Real Estate
+PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,25.16,0.0,19041,Real Estate
+PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,25.595,0.0,2993,Real Estate
